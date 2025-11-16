@@ -112,9 +112,6 @@ exploit_toolkit = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif" width="300"/>
-</div>
 
 ---
 
