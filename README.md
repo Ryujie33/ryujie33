@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Ethical+Hacker+%F0%9F%94%90;Penetration+Tester+%F0%9F%8E%AF;Security+Researcher+%F0%9F%94%8D;Bug+Bounty+Hunter+%F0%9F%90%9B)](https://git.io/typingsvg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Ethical+Hacker+%F0%9F%94%90;Penetration+Tester+%F0%9F%8E%AF;Security+Researcher+%F0%9F%94%8D)](https://git.io/typingsvg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=regie&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/regie?style=social)](https://github.com/regie)
