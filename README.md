@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Matrix Rain Header -->
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="100%" height="150"/>
-
 </div>
 
 # 👾 REGIE | Ethical Hacker & Cybersecurity Professional
@@ -241,8 +237,8 @@ const skills = {
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.eu/profile/regie)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/regie)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/PxChrolloNbs)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CHR0LL0)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
 [![VulnHub](https://img.shields.io/badge/VulnHub-4A154B?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com)
 
