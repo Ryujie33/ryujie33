@@ -26,6 +26,20 @@ Cybersecurity professional specializing in **ethical hacking**, **penetration te
 - Man-in-the-Middle Attacks
 - Privilege Escalation & Post-Exploitation
 
+**Mobile Penetration Testing**
+- Android & iOS Application Security
+- SSL Pinning Bypass
+- Dynamic & Static Analysis
+- Reverse Engineering APKs/IPAs
+- Runtime Manipulation with Frida
+
+**Threat Intelligence**
+- OSINT & Reconnaissance
+- Indicators of Compromise (IOC) Analysis
+- Adversary Tracking & Profiling
+- Threat Hunting & Detection Engineering
+- Dark Web Monitoring
+
 ---
 
 ## Tech Stack
