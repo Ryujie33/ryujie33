@@ -176,9 +176,9 @@ $ cat certs.log | grep "\[+\]"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/regie)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/regie)
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/regie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/john-regie-socatre-890667296/)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-0D1117?style=for-the-badge&logo=protonmail&logoColor=8B89CC)](mailto:regie@protonmail.com)
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://regie.io)
 
