@@ -136,6 +136,13 @@ exploit_toolkit = {
 [+] Jr Penetration Tester (TryHackMe)
 [+] Google Cybersecurity Specialization (Coursera)
 [+] Ethical Hacking Essentials (EHE)
+[+] Certified Multi-Cloud Red Team Analyst (CyberWarfare Labs)
+[+] Information Security Associate
+[+] Certified Network Security Practitioner (CNSP)
+[+] Certified Blue Team Practitioner (CBTP)
+[+] Certified Blue Team Practitioner (CBTP)
+[+] CSI Linux Certified Investigator
+[+] Certified AppSec Practitioner v2 (CAP)
 ```
 
 ---
